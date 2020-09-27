@@ -10,6 +10,7 @@ namespace EntityDBFirst
     {
         static void Main(string[] args)
         {
+            // test of database first in Entity framework
         }
     }
 }
